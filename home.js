@@ -1,25 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 let title=document.getElementById("title");
 let title1=document.getElementById("title1");
 let title2=document.getElementById("title2");
